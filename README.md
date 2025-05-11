@@ -18,11 +18,11 @@ It provides full **CRUD operations** along with user-friendly interfaces to **vi
 
 ### 🏠 Home Page
 
-![Home Page](assets/home.png)
+![Home Page](/emp1.png)
 
 ### ➕ Add Employee Page
 
-![Add Employee Page](assets/add_employee.png)
+![Add Employee Page](/emp2.png)
 
 
 ## 🛠️ Technologies Used

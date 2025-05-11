@@ -14,6 +14,16 @@ It provides full **CRUD operations** along with user-friendly interfaces to **vi
 - 🎨 Styled with basic HTML/CSS
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](assets/home.png)
+
+### ➕ Add Employee Page
+
+![Add Employee Page](assets/add_employee.png)
+
 
 ## 🛠️ Technologies Used
 
